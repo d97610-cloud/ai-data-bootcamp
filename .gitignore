@@ -1,0 +1,27 @@
+# --- auto-sync 제어 파일 ---
+AUTOSYNC-PAUSED.md
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# --- OS / 편집기 ---
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
+*.bak
+.vscode/settings.json
+
+# --- 데이터 (100MB 초과 파일은 GitHub에 올릴 수 없음) ---
+*.parquet.tmp
