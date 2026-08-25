@@ -8,7 +8,7 @@ AI 데이터 인텔리전스 「Project #1 Insight Digging with ML」. 데이터
 
 ### 📄 보고서 바로 보기
 
-**→ [웹에서 보고서 열기](https://d97610-cloud.github.io/ai-data-bootcamp/MLProject/report/)** — 원본 서식 그대로, 대화형 시각화 포함
+**→ [웹에서 보고서 열기](https://d97610-cloud.github.io/ai-data-bootcamp/)** — 원본 서식 그대로, 대화형 시각화 포함
 
 ### 이 화면에서 바로 읽기
 
@@ -24,7 +24,6 @@ AI 데이터 인텔리전스 「Project #1 Insight Digging with ML」. 데이터
 
 | 파일 | 내용 |
 |---|---|
-| `report/index.html` | 위 웹 링크가 서비스하는 원본 (대화형 시각화 포함) |
 | `보고서/img/*.png` | 보고서에 실린 그림 20장 |
 | `ERD.md` | 원본 테이블 구조와 결합 키 |
 | `데이터/*.csv.gz` | 원본 데이터 (아래 «데이터» 참고) |
